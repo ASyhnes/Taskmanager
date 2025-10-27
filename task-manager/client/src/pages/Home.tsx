@@ -4,6 +4,7 @@ import { TaskChat } from '@/components/TaskChat';
 import { ActiveTasks } from '@/components/ActiveTasks';
 import { WeeklyReview } from '@/components/WeeklyReview';
 import { CompletedTasks } from '@/components/CompletedTasks';
+import { InstallPWA } from '@/components/InstallPWA';
 import { Button } from '@/components/ui/button';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { 
@@ -166,6 +167,9 @@ export default function Home() {
           <p>Gestionnaire de Tâches Intelligent - Organisez votre vie efficacement</p>
         </div>
       </footer>
+
+      {/* PWA Install Prompt */}
+      <InstallPWA />
     </div>
   );
 }
