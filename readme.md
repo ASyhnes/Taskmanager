@@ -11,7 +11,7 @@
 
 **Une Progressive Web App moderne pour gérer vos tâches avec intelligence**
 
-[Démo en ligne](#) • [Documentation](./DOCUMENTATION_TECHNIQUE.md) • [Guide PWA](./GUIDE_DEPLOIEMENT_PWA.md) • [Signaler un bug](../../issues)
+[Démo en ligne](#) • [Documentation](/DOCUMENTATION_TECHNIQUE.md) • [Guide PWA](/GUIDE_DEPLOIEMENT_PWA.md) •
 
 </div>
 
@@ -276,11 +276,6 @@ git push origin feature/ma-fonctionnalite
 - [ ] Synchronisation multi-appareils
 - [ ] Mode collaboratif
 
----
-
-## 📄 Licence
-
-MIT License - Copyright (c) 2025
 
 ---
 
